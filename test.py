@@ -4,7 +4,7 @@
 import getpass
 import os
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCNlGZtW2sSLwB69KBoXK8gyhIEJRZQ6jc"
+os.environ["GOOGLE_API_KEY"] = "ssdas"
 
 from langchain.chat_models import init_chat_model
 
